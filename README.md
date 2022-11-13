@@ -31,7 +31,7 @@ The repository contains one jupyter notebook that has all the code used for this
 
 ## Results
 
-The main findings of this analysis can be found in the Blogpost here: 
+The main findings of this analysis can be found in the Blogpost here: https://medium.com/@ak_gossmann/what-adds-to-you-job-satisfaction-as-a-developer-512c833c9111
 
 ## Licensing, Authors, Acknowledgements
 
